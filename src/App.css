@@ -19,6 +19,19 @@
 .card-text {
   color: #212529 !important;
 }
+
+.show-image {
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.show-image:hover {
+  transform: scale(2);
+}
+.card:hover {
+  z-index: 1004;
+  transform: scale(1.2);
+}
 /* HEADER , HOME */
 .navbar{
   display: flex;
@@ -373,6 +386,10 @@ textarea{
   .nav {
     display: flex;
     align-items: center;
+  }
+
+  .show-image{
+    margin: 0 0;
   }
 
   .nav > h2 {

@@ -12,37 +12,43 @@ function ProductItems(props){
             img: product_01,
             title: 'Tittle 01',
             price: '$ 4.50',
-            slug: 'title-01'
+            slug: 'title-01',
+            description: 'lorem ipsum dolor sit amet, con, sed diam nonumy, sed diam nonumy, sed diam nonumy at vero eos et accusam et justo const  Lorem ipsum dolor sit amet, con, sed diam non'
         },
         {
             img: product_02,
             title: 'Tittle 02',
             price: '$ 3.75',
-            slug: 'title-02'
+            slug: 'title-02',
+            description: 'lorem ipsum dolor sit amet, con, sed diam nonumy, sed diam nonumy, sed diam nonumy at vero eos et accusam et justo const  Lorem ipsum dolor sit amet, con, sed diam non'
         },
         {
             img: product_03,
             title: 'Tittle 03',
             price: '$ 6.00',
-            slug: 'title-03'
+            slug: 'title-03',
+            description: 'lorem ipsum dolor sit amet, con, sed diam nonumy, sed diam nonumy, sed diam nonumy at vero eos et accusam et justo const  Lorem ipsum dolor sit amet, con, sed diam non'
         },
         {
             img: product_04,
             title: 'Tittle 04',
             price: '$ 1.25',
-            slug: 'title-04'
+            slug: 'title-04',
+            description: 'lorem ipsum dolor sit amet, con, sed diam nonumy, sed diam nonumy, sed diam nonumy at vero eos et accusam et justo const  Lorem ipsum dolor sit amet, con, sed diam non'
         },
         {
             img: product_05,
             title: 'Tittle 05',
             price: '$ 2.75',
-            slug: 'title-05'
+            slug: 'title-05',
+            description: 'lorem ipsum dolor sit amet, con, sed diam nonumy, sed diam nonumy, sed diam nonumy at vero eos et accusam et justo const  Lorem ipsum dolor sit amet, con, sed diam non'
         },
         {
             img: product_06,
             title: 'Tittle 06',
             price: '$ 2.00',
-            slug: 'title-06'
+            slug: 'title-06',
+            description: 'lorem ipsum dolor sit amet, con, sed diam nonumy, sed diam nonumy, sed diam nonumy at vero eos et accusam et justo const  Lorem ipsum dolor sit amet, con, sed diam non'
         }
 
     ]
