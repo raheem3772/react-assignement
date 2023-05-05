@@ -37,7 +37,7 @@ function Product(){
                 </div>
                 <div className='product-main'>
                     <h4 style={{color:'red',fontSize:'22px',fontWeight:'700',marginBottom:'15px'}}>new Arrivals</h4>
-                    <h2 style={{fontSize:'62px',letterSpacing:'5px', marginTop:'0'}}>E-Commerce</h2>
+                    <h2 style={{letterSpacing:'5px', marginTop:'0'}}>E-Commerce</h2>
                 </div>
             </div>
             <div className="product">
